@@ -1,1 +1,1 @@
-testowa zawartosc feature
+testowa zawartosc test
